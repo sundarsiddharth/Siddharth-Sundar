@@ -15,7 +15,7 @@
 -->
 <html>
 	<head>
-		<title>Aerial by HTML5 UP</title>
+		<title>Siddharth Sundar</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -30,21 +30,21 @@
 				<!-- Header -->
 					<header id="header">
 						<h1>Siddharth Sundar</h1>
-						<p>Security Chief &nbsp;&bull;&nbsp; Cyborg &nbsp;&bull;&nbsp; Never asked for this</p>
+						<p>Data Scientist &nbsp;&bull;&nbsp; Armchair Intellectual  &nbsp;&bull;&nbsp; Coffee Lover</p>
 						<nav>
 							<ul>
-								<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-								<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-								<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
-								<li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
-								<li><a href="#" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
+								<li><a href="https://www.twitter.com" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+								<li><a href="https://www.facebook.com/sundarsiddharth" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+								<li><a href="https://www.linkedin.com" class="icon fa-linkedin"><span class="label">Linkedin</span></a></li>
+								<li><a href="https://www.github.com/sundarsiddharth" class="icon fa-github"><span class="label">Github</span></a></li>
+								<li><a href="mailto:siddharth.sundar@icloud.com" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
 							</ul>
 						</nav>
 					</header>
 
 				<!-- Footer -->
 					<footer id="footer">
-						<span class="copyright">&copy; Untitled. Design: <a href="http://html5up.net">HTML5 UP</a>.</span>
+						<span class="copyright">&copy; Siddharth Sundar. Design: <a href="http://html5up.net">HTML5 UP</a>.</span>
 					</footer>
 
 			</div>

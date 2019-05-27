@@ -30,7 +30,7 @@
 				<!-- Header -->
 					<header id="header">
 						<h1>Siddharth Sundar</h1>
-						<p>Data Scientist &nbsp;&bull;&nbsp; Armchair Intellectual  &nbsp;&bull;&nbsp; Coffee Lover</p>
+						<p>Data Scientist &nbsp;&bull;&nbsp;  Armchair Intellectual  &nbsp;&bull;&nbsp; Coffee Lover</p>
 						<nav>
 							<ul>
 								<li><a href="https://www.twitter.com" class="icon fa-twitter"><span class="label">Twitter</span></a></li>

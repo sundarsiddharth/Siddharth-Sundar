@@ -29,10 +29,11 @@
 
 				<!-- Header -->
 					<header id="header">
-						<h1>Siddharth Sundar</h1>
+            <h1>Siddharth Sundar</h1>
 						<p>Data Scientist &nbsp;&bull;&nbsp; Armchair Intellectual  &nbsp;&bull;&nbsp; Genius </p>
 						<nav>
 							<ul>
+                <li><a href="Siddharth Sundar - Curriculum Vitae B.pdf" class="icon fa-file"><span class="label">Twitter</span></a></li>
 								<li><a href="https://www.twitter.com" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
 								<li><a href="https://www.facebook.com/sundarsiddharth" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
 								<li><a href="https://www.linkedin.com" class="icon fa-linkedin"><span class="label">Linkedin</span></a></li>
